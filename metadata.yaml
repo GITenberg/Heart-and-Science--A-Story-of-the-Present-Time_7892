@@ -1,0 +1,37 @@
+_repo: Heart-and-Science--A-Story-of-the-Present-Time_7892
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Collins, Wilkie
+    alias: Collins, William Wilkie
+    birthdate: 1824
+    deathdate: 1889
+    gutenberg_agent_id: '98'
+    url: http://www.gutenberg.org/2009/agents/98
+    wikipedia: http://en.wikipedia.org/wiki/Wilkie_Collins
+description: Dr. Ovid Vere first caught sight of the love of his life the day before
+  he was due to leave for the Mediterranean. He caught sight of her in the street
+  and followed her to a concert, where she fainted. What could he do? He was a doctor,
+  after all; he had to help her--and that's how he learned that she was Carmina Graywell,
+  his mother's niece from Italy, accompanied by her old nurse, Teresa. Carmina's father,
+  Robert, had just died, leaving her to be brought up by Mrs. Gallilee in London.
+  That was before life got complicated--and the complications that were to come of
+  that moment would vex them both for so long.
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7892'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Courtship -- Fiction'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Vivisection -- Fiction'
+- !lcsh 'Guardian and ward -- Fiction'
+- !lcsh 'Medical ethics -- Fiction'
+- GITenberg
+title: 'Heart and Science: A Story of the Present Time'
+url: http://www.gutenberg.org/ebooks/7892
